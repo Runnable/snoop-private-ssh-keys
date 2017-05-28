@@ -1,6 +1,6 @@
 FROM node:4.4.5
 
-COPY ./package.json /app
+COPY ./package.json /app/package.json
 WORKDIR /app
 RUN npm install
 
