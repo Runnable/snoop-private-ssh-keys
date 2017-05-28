@@ -2,6 +2,8 @@
   "name": "SnoopPrivateSSHKEys",
   "version": "0.0.1",
   "description": "Used to test private ssh keys",
+  "repository": "https://github.com/Runnable/snoop-private-ssh-keys",
+  "license": "UNLICENSED",
   "dependencies": {
     "snoop-private-ssh-key": "git+ssh://git@github.com:CodeNow/snoop-private-ssh-key#master"
   },
